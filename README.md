@@ -1,7 +1,8 @@
 ### Overview
 This repository contains my implementation of a software raytracer in C++ after reading the book "Ray Tracing in One Weekend"
 
-!["Ray traced image of many spheres with varying materials and sizes"](showcase.ppm)
+PNG converted output of the program with a 500 sample per pixel render
+!["Ray traced image of many spheres with varying materials and sizes"](showcase.png)
 
 ### Building and running
 The project is a very simple flat structure of multiple header files and a single .cc file.
